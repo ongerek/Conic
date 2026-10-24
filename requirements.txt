@@ -1,0 +1,10 @@
+# Install PyTorch first, with the build that matches the machine (README, Installation):
+#   NVIDIA Blackwell (RTX 50xx, RTX PRO 6000):  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+#   other NVIDIA GPUs:                           the same command usually works; for an older driver, take
+#                                                the matching command from https://pytorch.org/get-started/locally/
+#   Apple Silicon or CPU only:                   pip install torch torchvision
+# PyTorch 2.7 or newer and torchvision 0.22 or newer are expected. Then:
+#   pip install -r requirements.txt
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8      # optional: PNG previews written by src/loss_surface.py

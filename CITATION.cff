@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "The Reach of Conic Geometry in Deep Classifiers: code"
+type: software
+license: MIT
+authors:
+  - family-names: Gerek
+    given-names: Ömer Nezih
+    affiliation: "Eskişehir Technical University, Department of Electrical and Electronics Engineering"
+preferred-citation:
+  type: article
+  title: "The Reach of Conic Geometry in Deep Classifiers"
+  authors:
+    - family-names: Gerek
+      given-names: Ömer Nezih
+      affiliation: "Eskişehir Technical University, Department of Electrical and Electronics Engineering"
+  journal: "Candidate: Neural Networks"
+  status: submitted
+  year: 2026

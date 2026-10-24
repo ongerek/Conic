@@ -1,0 +1,8 @@
+nohup: ignoring input
+2026-10-24 20:24:36  logs
+no runs found (looked in runs/)
+2026-10-24 20:24:36  probe: families  (4 at a time, 8 CPU threads each)
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+ModuleNotFoundError: No module named 'torchvision'
+Could not read or download CIFAR into ./data

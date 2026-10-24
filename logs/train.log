@@ -1,0 +1,3 @@
+nohup: ignoring input
+PyTorch with CUDA was not found by python3 (see README, Installation).
+To train on another device anyway (Apple MPS or CPU): ALLOW_NO_CUDA=1 LANES=1 bash scripts/train.sh ...
